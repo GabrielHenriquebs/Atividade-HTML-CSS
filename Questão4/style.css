@@ -1,0 +1,25 @@
+.containerPrincipal{
+    width: 1280px;
+    height: 800px;
+    padding: 20px;
+    border: 5px solid;
+    border-radius: 10px;
+    background-image: url(pngtree-rainbow-curves-abstract-colorful-background-image_2164067.jpg);
+    background-size: cover;
+}
+.containerBlack {
+    width: 250px;
+    height: 250px;
+    padding: 10px;
+    border: 1px solid;
+    padding: 10px;
+    background-color: black;
+}
+.containerWhite {
+    width: 250px;
+    height: 250px;
+    padding: 10px;
+    border: 1px solid;
+    padding: 10px;
+    background-color:white;
+}

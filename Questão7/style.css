@@ -1,0 +1,16 @@
+.container{
+    width: 300px;
+    height: 300px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    background-image: url(4fb735450ccd37f844681e08fbaca7f8.jpg);
+}
+input{
+    border-radius: 5px;
+}
+.acessar{
+    background-color: rgba(0, 255, 191, 0.589);
+    color: blue;
+}

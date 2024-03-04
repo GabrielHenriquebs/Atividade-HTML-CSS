@@ -1,0 +1,14 @@
+.containerTable{
+    width: 400px;
+    height: 400px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 10px;
+}
+.containerFirst{
+    background-color: black;
+    color: white;
+}
+.coluna:last-child{
+    background-color: greenyellow;
+}

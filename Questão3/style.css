@@ -1,0 +1,15 @@
+.containerImagem{ 
+    width: 500px;
+    height: 300px;
+    border: 1px solid;
+    border-radius: 10px 10px 5px gray;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.containerText{ 
+    width: 400px;
+    height: 300px;
+    border: 1px solid;
+    border-radius: 10px 10px 5px gray;
+    padding: 10px;
+}
